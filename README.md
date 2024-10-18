@@ -1,4 +1,4 @@
-# Getting Started with Mistral AI - Course Completion
+# Getting Started with Mistral AI
 
 ## Overview
 
